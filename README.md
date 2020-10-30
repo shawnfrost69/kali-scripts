@@ -50,3 +50,23 @@ Ideas and plans, things todo:
 
 
 https://www.offensive-security.com/kali-linux/top-10-post-install-tips/
+
+## new update
+
+Download the latest version of kali from here:
+https://www.kali.org/downloads/
+
+Update your repo from here:
+https://www.kali.org/docs/general-use/updating-kali/
+
+If you have any nvidia graphic card download the driver from here:
+https://www.kali.org/docs/general-use/install-nvidia-drivers-on-kali-linux/
+
+If your wireless card is not working Update your driver from here:
+http://linuxwireless.sipsolutions.net/en/users/Download/stable/__v210.html 
+
+and try sudo update commands.
+
+THANK YOU GUYS!!
+
+
